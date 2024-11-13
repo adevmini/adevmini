@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adevmini
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science.
 - 📫 How to reach me @ wijesekaraaadhya@gmail.com
-- 😄 Pronouns: her/she
+- 😄 Pronouns: she/her
 
 <!---
 adevmini/adevmini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
